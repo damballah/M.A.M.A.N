@@ -10,6 +10,8 @@ Terminal de bord du vaisseau d'*Alien, le 8ème passager* (1979), recréé dans 
 - **Conversation vocale** en français : reconnaissance de la parole et voix féminine calme. « Tais-toi » ou « Stop » coupent la voix.
 - **Reconnaissance du locuteur** : une voix inconnue doit s'identifier avant que M.A.M.A.N lui réponde. Plusieurs officiers peuvent parler dans la même session.
 - **Registre classifié** : 33 informations et commandes protégées par un code d'accès (Ordre spécial 937, pilotage manuel, autodestruction avec compte à rebours…).
+- **Capteurs bio-acoustiques** : détection de la toux, des éternuements, du rire et des soupirs (modèle YAMNet exécuté dans le navigateur). M.A.M.A.N adapte son ton et dit « à vos souhaits ».
+- **Module médical de bord** : entretien par questions-réponses, puis rapport avec hypothèses, conseils et orientation (15 / 112 en cas d'alerte). Ne remplace pas un médecin.
 - **Mode écoute** : M.A.M.A.N se tait et prend des notes.
 
 ## Lancement
